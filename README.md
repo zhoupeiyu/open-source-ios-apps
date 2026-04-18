@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1648-green.svg) ![](https://img.shields.io/badge/Updated-April%2017,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1648-green.svg) ![](https://img.shields.io/badge/Updated-April%2018,%202026-lightgrey.svg)
 
 Jump to
 
@@ -3166,10 +3166,6 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://github.com/Themoji/themoji.me/blob/gh-pages/ThemojiIdea.jpg?raw=true'>`Screenshot 1`</a> 
   -  `2023` `swift` 
   -  ☆`41` 
-- [Travel Guide](https://github.com/Ivaskuu/travel-guide_app)
-  -  <a href='https://github.com/Ivaskuu/travel-guide_app/raw/master/screenshots/flutter_02.png'>`Screenshot 1`</a> 
-  -  `2018` `flutter` 
-  -  ☆`37` 
 ## Weather 
  
 [back to top](#readme) 
@@ -3713,10 +3709,6 @@ https://flutter.dev — [back to top](#readme)
 - [Trace](https://github.com/trentpiercy/trace): Modern crypto Portfolio & market explorer
   -  `2023` `flutter` `dart` 
   -  ☆`1147` 
-- [Travel Guide](https://github.com/Ivaskuu/travel-guide_app)
-  -  <a href='https://github.com/Ivaskuu/travel-guide_app/raw/master/screenshots/flutter_02.png'>`Screenshot 1`</a> 
-  -  `2018` `flutter` 
-  -  ☆`37` 
 - [Trovami](https://github.com/Samaritan1011001/Trovami): Live location sharing
   -  `2026` `flutter` `dart` 
   -  ☆`259` 
