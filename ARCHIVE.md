@@ -690,6 +690,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [tpg offline](https://github.com/tpgoffline/tpg-offline-iOS)
 - [Tracker 4 Compassion](https://github.com/fokkezb/tracker)
 - [Transcription Helper](https://github.com/novinfard/TranscriptionHelper)
+- [Travel Guide](https://github.com/Ivaskuu/travel-guide_app)
 - [Triggy](https://github.com/jnordberg/triggy)
 - [Tripletz Tic Tac Toe](https://github.com/Aaron-A/Tripletz)
 - [TrollDrop](https://github.com/a2/TrollDrop)
