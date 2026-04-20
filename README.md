@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1648-green.svg) ![](https://img.shields.io/badge/Updated-April%2019,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1649-green.svg) ![](https://img.shields.io/badge/Updated-April%2020,%202026-lightgrey.svg)
 
 Jump to
 
@@ -721,6 +721,9 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/id1580906147) <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/a6/75/0d/a6750dee-7361-ca1f-34bc-804b2b0d79e4/56caf957-c128-4b7a-8458-106a0de6fdaa_Simulator_Screen_Shot_-_iPhone_12_Pro_Max_-_2021-09-06_at_19.29.40.png/460x0w.webp'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/e7/9e/c6/e79ec63c-db19-2029-165d-ce6fc55500d1/c30f507f-54df-4fe8-bc7f-44c86a61a72c_Simulator_Screen_Shot_-_iPhone_12_Pro_Max_-_2021-09-06_at_19.39.33.png/460x0w.webp'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/81/01/ea/8101ea88-c459-e2b2-e18f-03eb42ccd5ff/5324ca34-a122-46fa-a618-1bb03d6afe7d_Simulator_Screen_Shot_-_iPhone_12_Pro_Max_-_2021-09-06_at_19.39.48.png/460x0w.webp'>`Screenshot 3`</a> 
   -  `2026` `swift` `swiftui` 
   -  ☆`15` 
+- [Hutch](https://github.com/zerolabsco/hutch): Browse SourceHut repositories, issues, mailing lists, and patches
+  - [` App Store`](https://apps.apple.com/app/hutch-for-sourcehut/id6760742299) <a href='https://img.cleberg.net/apps/hutch/screenshots/iphone/01_patch.jpg'>`Screenshot 1`</a>  <a href='https://img.cleberg.net/apps/hutch/screenshots/iphone/05_repo.jpg'>`Screenshot 2`</a>  <a href='https://img.cleberg.net/apps/hutch/screenshots/iphone/04_tickets.jpg'>`Screenshot 3`</a> 
+  - `swift` `swiftui` 
 - [iperf](https://github.com/ndfred/iperf-ios): Run an iperf3 client, including reverse mode & multiple streams selection
   -  <a href='https://github.com/ndfred/iperf-ios/raw/master/Screenshot.png'>`Screenshot 1`</a> 
   -  `2025` `objc` 
