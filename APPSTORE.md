@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **323** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **324** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -337,6 +337,9 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/ci2go-the-circleci-client/id940028427) <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/8f/a8/7b/8fa87bff-369c-f556-19be-04f9d64aafe5/mzl.cbjemxao.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/32/ba/3e/32ba3e1c-2ca3-9acb-6edb-837d9813d42f/mzl.fnosaifu.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/75/b1/c3/75b1c366-26f2-3468-88cb-a5576b72ee38/mzl.fdapyomc.png/460x0w.jpg'>`Screenshot 3`</a> 
   -  `2022` `swift` 
   -  ☆`92` 
+- [Domain Dig](https://github.com/zerolabsco/domain-dig): Perform quick DNS lookups, SSL/TLS checks, and more on any domain
+  - [` App Store`](https://apps.apple.com/us/app/domaindig/id6760368004) <a href='https://img.cleberg.net/apps/domaindig/screenshots/iPhone/01.png'>`Screenshot 1`</a>  <a href='https://img.cleberg.net/apps/domaindig/screenshots/iPhone/03.png'>`Screenshot 2`</a>  <a href='https://img.cleberg.net/apps/domaindig/screenshots/iPhone/04.png'>`Screenshot 3`</a> 
+  - `swift` `swiftui` 
 - [Enchanted](https://github.com/gluonfield/enchanted): Developer tool for LLMs
   - [` App Store`](https://apps.apple.com/app/enchanted-llm/id6474268307) <a href='https://github.com/user-attachments/assets/7dade8ec-e94d-4936-9237-f2f2bc1533f2'>`Screenshot 1`</a> 
   -  `2025` `swift` 
