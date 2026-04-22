@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1650-green.svg) ![](https://img.shields.io/badge/Updated-April%2021,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1650-green.svg) ![](https://img.shields.io/badge/Updated-April%2022,%202026-lightgrey.svg)
 
 Jump to
 
@@ -2405,7 +2405,7 @@ https://news.ycombinator.com/ — [back to top](#readme)
   -  `2026` `swift` 
   -  ☆`211` 
 - [Gem for Hacker News](https://github.com/Livinglist/Gem)
-  - [` App Store`](https://apps.apple.com/app/z-combinator-for-hacker-news/id1638242818) <a href='https://github.com/Livinglist/Gem/blob/main/Resources/Screenshots/iphone-1.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/Livinglist/Gem/blob/main/Resources/Screenshots/iphone-2.png?raw=true'>`Screenshot 2`</a>  <a href='https://github.com/Livinglist/Gem/blob/main/Resources/Screenshots/iphone-3.png?raw=true'>`Screenshot 3`</a>  <a href='https://github.com/Livinglist/Gem/blob/main/Resources/Screenshots/iphone-6.png?raw=true'>`Screenshot 4`</a> 
+  - [` App Store`](https://apps.apple.com/app/z-combinator-for-hacker-news/id1638242818) <a href='https://raw.githubusercontent.com/Livinglist/Gem/refs/heads/main/Resources/Screenshots/home_top.png'>`Screenshot 1`</a> 
   -  `2024` `swift` `swiftui` 
   -  ☆`78` 
 - [Hacker News Multiplatform](https://github.com/rickwierenga/heartbeat-tutorials/tree/master/MultiplatformApp/)
@@ -4226,7 +4226,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  `2025` `swift` `swiftui` `mlx` 
   -  ☆`2237` 
 - [Gem for Hacker News](https://github.com/Livinglist/Gem)
-  - [` App Store`](https://apps.apple.com/app/z-combinator-for-hacker-news/id1638242818) <a href='https://github.com/Livinglist/Gem/blob/main/Resources/Screenshots/iphone-1.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/Livinglist/Gem/blob/main/Resources/Screenshots/iphone-2.png?raw=true'>`Screenshot 2`</a>  <a href='https://github.com/Livinglist/Gem/blob/main/Resources/Screenshots/iphone-3.png?raw=true'>`Screenshot 3`</a>  <a href='https://github.com/Livinglist/Gem/blob/main/Resources/Screenshots/iphone-6.png?raw=true'>`Screenshot 4`</a> 
+  - [` App Store`](https://apps.apple.com/app/z-combinator-for-hacker-news/id1638242818) <a href='https://raw.githubusercontent.com/Livinglist/Gem/refs/heads/main/Resources/Screenshots/home_top.png'>`Screenshot 1`</a> 
   -  `2024` `swift` `swiftui` 
   -  ☆`78` 
 - [GitHub User Search](https://github.com/ra1028/SwiftUI-Combine)
