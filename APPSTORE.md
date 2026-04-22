@@ -1270,7 +1270,7 @@ https://news.ycombinator.com/ — [back to top](#readme)
  
 
 - [Gem for Hacker News](https://github.com/Livinglist/Gem)
-  - [` App Store`](https://apps.apple.com/app/z-combinator-for-hacker-news/id1638242818) <a href='https://github.com/Livinglist/Gem/blob/main/Resources/Screenshots/iphone-1.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/Livinglist/Gem/blob/main/Resources/Screenshots/iphone-2.png?raw=true'>`Screenshot 2`</a>  <a href='https://github.com/Livinglist/Gem/blob/main/Resources/Screenshots/iphone-3.png?raw=true'>`Screenshot 3`</a>  <a href='https://github.com/Livinglist/Gem/blob/main/Resources/Screenshots/iphone-6.png?raw=true'>`Screenshot 4`</a> 
+  - [` App Store`](https://apps.apple.com/app/z-combinator-for-hacker-news/id1638242818) <a href='https://raw.githubusercontent.com/Livinglist/Gem/refs/heads/main/Resources/Screenshots/home_top.png'>`Screenshot 1`</a> 
   -  `2024` `swift` `swiftui` 
   -  ☆`78` 
 - [Hackers](https://github.com/weiran/Hackers)
@@ -2068,7 +2068,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  `2022` `swift` `swiftui` `combine` 
   -  ☆`24` 
 - [Gem for Hacker News](https://github.com/Livinglist/Gem)
-  - [` App Store`](https://apps.apple.com/app/z-combinator-for-hacker-news/id1638242818) <a href='https://github.com/Livinglist/Gem/blob/main/Resources/Screenshots/iphone-1.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/Livinglist/Gem/blob/main/Resources/Screenshots/iphone-2.png?raw=true'>`Screenshot 2`</a>  <a href='https://github.com/Livinglist/Gem/blob/main/Resources/Screenshots/iphone-3.png?raw=true'>`Screenshot 3`</a>  <a href='https://github.com/Livinglist/Gem/blob/main/Resources/Screenshots/iphone-6.png?raw=true'>`Screenshot 4`</a> 
+  - [` App Store`](https://apps.apple.com/app/z-combinator-for-hacker-news/id1638242818) <a href='https://raw.githubusercontent.com/Livinglist/Gem/refs/heads/main/Resources/Screenshots/home_top.png'>`Screenshot 1`</a> 
   -  `2024` `swift` `swiftui` 
   -  ☆`78` 
 - [GradeCalc - GPA Calculator](https://github.com/marlon360/grade-calc): Keep track of your GPA
