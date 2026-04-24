@@ -88,6 +88,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [BlackJackTrainer](https://github.com/mongodb-developer/BlackJackTrainer)
 - [BoardBank](https://github.com/richardneitzke/BoardBank)
 - [Bombus Pomodoro](https://github.com/opensourceios/Bombus)
+- [BookSearch](https://github.com/Norbert515/BookSearch)
 - [Boostnote](https://github.com/BoostIO/boostnote-mobile)
 - [Borrowed Books](https://github.com/MatheusCavalca/RenovaLivrosUFRGS)
 - [Brain Marks](https://github.com/mikaelacaron/brain-marks)
