@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1650-green.svg) ![](https://img.shields.io/badge/Updated-April%2023,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1650-green.svg) ![](https://img.shields.io/badge/Updated-April%2024,%202026-lightgrey.svg)
 
 Jump to
 
@@ -3558,10 +3558,6 @@ https://flutter.dev — [back to top](#readme)
 - [BMI Calculator](https://github.com/londonappbrewery/bmi-calculator-flutter)
   -  `2023` `flutter` `dart` 
   -  ☆`202` 
-- [BookSearch](https://github.com/Norbert515/BookSearch): Collecting books as you read them
-  -  <a href='https://github.com/Norbert515/BookSearch/raw/dev/readmeAssets/fade_in_myCollection_gif.gif'>`Screenshot 1`</a> 
-  -  `2018` `flutter` `dart` 
-  -  ☆`550` 
 - [Cinematic movies](https://github.com/aaronoe/FlutterCinematic)
   -  `2020` `flutter` `dart` `themoviedb` 
   -  ☆`904` 
