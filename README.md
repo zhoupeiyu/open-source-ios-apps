@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1650-green.svg) ![](https://img.shields.io/badge/Updated-April%2025,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1650-green.svg) ![](https://img.shields.io/badge/Updated-April%2026,%202026-lightgrey.svg)
 
 Jump to
 
@@ -3313,10 +3313,6 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://github.com/meggsila/EmployeeCheckin/assets/80169743/447521f2-bc34-4823-8ba5-699240de608d'>`Screenshot 1`</a> 
   -  `2024` `swift` `mvvm` `core-data` 
   -  ☆`8` 
-- [FakeFBWall](https://github.com/VamshiIITBHU14/FakeFBWall): Generate fake Facebook wall
-  -  <a href='https://user-images.githubusercontent.com/21070922/44155410-d3d87ee8-a0ca-11e8-8502-6f2b2748f5cb.png'>`Screenshot 1`</a> 
-  -  `2018` `swift` 
-  -  ☆`29` 
 - [FlightUtilities](https://github.com/BalestraPatrick/FlightUtilities): Uses the private FlightUtilities.framework to show information about any flight given the airline code, flight code & date
   -  <a href='https://github.com/BalestraPatrick/FlightUtilities/raw/master/header.jpg'>`Screenshot 1`</a> 
   -  `2018` `objc` 
