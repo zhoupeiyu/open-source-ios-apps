@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1650-green.svg) ![](https://img.shields.io/badge/Updated-April%2026,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1650-green.svg) ![](https://img.shields.io/badge/Updated-April%2027,%202026-lightgrey.svg)
 
 Jump to
 
@@ -691,7 +691,7 @@ Jump to
   -  `2026` `ai` `claude-code` 
   -  ☆`129` 
 - [Domain Dig](https://github.com/zerolabsco/domain-dig): Perform quick DNS lookups, SSL/TLS checks, and more on any domain
-  - [` App Store`](https://apps.apple.com/us/app/domaindig/id6760368004) <a href='https://img.cleberg.net/apps/domaindig/screenshots/iPhone/01.png'>`Screenshot 1`</a>  <a href='https://img.cleberg.net/apps/domaindig/screenshots/iPhone/03.png'>`Screenshot 2`</a>  <a href='https://img.cleberg.net/apps/domaindig/screenshots/iPhone/04.png'>`Screenshot 3`</a> 
+  - [` App Store`](https://apps.apple.com/app/domaindig/id6760368004) <a href='https://img.cleberg.net/apps/domaindig/screenshots/iPhone/01.png'>`Screenshot 1`</a>  <a href='https://img.cleberg.net/apps/domaindig/screenshots/iPhone/03.png'>`Screenshot 2`</a>  <a href='https://img.cleberg.net/apps/domaindig/screenshots/iPhone/04.png'>`Screenshot 3`</a> 
   -  `2026` `swift` `swiftui` 
   -  ☆`1` 
 - [Enchanted](https://github.com/gluonfield/enchanted): Developer tool for LLMs
