@@ -111,6 +111,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Canvas](https://github.com/usecanvas/ios-v1)
 - [CaseAssistant](https://github.com/herrkaefer/CaseAssistant)
 - [Castle Hassle](https://github.com/bryceredd/CastleHassle)
+- [CastVideos](https://github.com/googlecast/CastVideos-ios)
 - [CCC](https://github.com/Oztechan/iosCCC)
 - [Celluloid Photo Editing extension](https://github.com/100mango/Celluloid)
 - [ChainReactApp](https://github.com/infinitered/ChainReactApp2017)
