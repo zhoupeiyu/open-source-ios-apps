@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1650-green.svg) ![](https://img.shields.io/badge/Updated-April%2028,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1650-green.svg) ![](https://img.shields.io/badge/Updated-April%2029,%202026-lightgrey.svg)
 
 Jump to
 
@@ -2661,9 +2661,6 @@ https://newsapi.org/ — [back to top](#readme)
 - [Backyard Birds](https://github.com/apple/sample-backyard-birds): App with persistent data, interactive widgets, and an all new in-app purchase experience - WWDC 2023 sample code by Apple
   -  `2023` `swift` `swiftdata` `widget` `ios17` `iap` `swiftui` 
   -  ☆`607` 
-- [CastVideos](https://github.com/googlecast/CastVideos-ios): Sender app to be used as the starting for Google Cast
-  -  `2024` `swift` 
-  -  ☆`209` 
 - [CleanStore](https://github.com/Clean-Swift/CleanStore): Uses the Clean Swift architecture (Uncle Bob's Clean Architecture)
   -  `2021` `swift` 
   -  ☆`1924` 
