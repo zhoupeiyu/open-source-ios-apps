@@ -14504,26 +14504,22 @@
     },
     {
       "title": "try! Swift Tokyo",
-      "source": "https://github.com/tryswift/trySwiftAppFinal",
+      "source": "https://github.com/tryswift/try-swift-tokyo",
       "tags": [
-        "swift",
-        "timepiece",
-        "realm",
-        "kingfisher",
-        "acknowlist"
+        "swift", "swiftui", "skip"
       ],
       "category-ids": [
-        "event",
-        "realm"
+        "event"
       ],
       "screenshots": [
         "https://cloud.githubusercontent.com/assets/4190298/23140345/534ae20c-f7b1-11e6-8584-b65aded1f59e.png",
         "https://cloud.githubusercontent.com/assets/4190298/23140344/53463e82-f7b1-11e6-8d84-c0cedcc930b1.png"
       ],
-      "license": "other",
+      "itunes": "https://apps.apple.com/app/try-tokyo-2026/id6479317240",
+      "license": "mit",
       "date_added": "Feb 22 2017",
       "suggested_by": "@dkhamsing",
-      "stars": 255,
+      "stars": 194,
       "updated": "2026-03-23 22:50:21 UTC"
     },
     {
