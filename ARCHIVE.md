@@ -642,6 +642,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [SwiftSnake](https://github.com/caleb0/SwiftSnake)
 - [SwiftSpace](https://github.com/FlexMonkey/SwiftSpace)
 - [SwiftStrike](https://developer.apple.com/documentation/realitykit/swiftstrike_creating_a_game_with_realitykit)
+- [SwiftTermApp](https://github.com/migueldeicaza/SwiftTermApp)
 - [SwiftTextClock](https://github.com/MichMich/SwiftTextClock)
 - [SwipeIt](https://github.com/ivanbruel/SwipeIt)
 - [Symbol Code](https://github.com/256Arts/Symbol-Code)
