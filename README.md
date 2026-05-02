@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1650-green.svg) ![](https://img.shields.io/badge/Updated-May%20%201,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1650-green.svg) ![](https://img.shields.io/badge/Updated-May%20%202,%202026-lightgrey.svg)
 
 Jump to
 
@@ -1056,7 +1056,7 @@ Jump to
   -  `2019` `swift` 
   -  ☆`37` 
 - [try! Swift Tokyo](https://github.com/tryswift/try-swift-tokyo)
-  - [` App Store`](https://apps.apple.com/app/try-tokyo-2026/id6479317240) <a href='https://cloud.githubusercontent.com/assets/4190298/23140345/534ae20c-f7b1-11e6-8584-b65aded1f59e.png'>`Screenshot 1`</a>  <a href='https://cloud.githubusercontent.com/assets/4190298/23140344/53463e82-f7b1-11e6-8d84-c0cedcc930b1.png'>`Screenshot 2`</a> 
+  - [` App Store`](https://apps.apple.com/app/try-tokyo-2026/id6479317240) <a href='https://github.com/user-attachments/assets/b74ae3cc-48e3-40a4-beea-fbb118dca413'>`Screenshot 1`</a> 
   -  `2026` `swift` `swiftui` `skip` 
   -  ☆`194` 
 - [WWDC Family](https://github.com/wwdc-family/app): Easily connect with fellow developers during WWDC
