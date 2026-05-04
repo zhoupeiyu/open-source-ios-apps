@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1650-green.svg) ![](https://img.shields.io/badge/Updated-May%20%203,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1650-green.svg) ![](https://img.shields.io/badge/Updated-May%20%204,%202026-lightgrey.svg)
 
 Jump to
 
@@ -3643,10 +3643,6 @@ https://flutter.dev — [back to top](#readme)
 - [Minimalistic Push](https://github.com/jonaspoxleitner/minimalistic_push): Track your push-ups and see an overview of your sessions
   -  `2022` `flutter` `dart` 
   -  ☆`13` 
-- [News Buzz](https://github.com/theankurkedia/NewsBuzz): Uses News API for fetching realtime data and Firebase as the backend and authenticator
-  -  <a href='https://github.com/theankurkedia/newsbuzz/raw/master/screenshots/NewsBuzz.gif'>`Screenshot 1`</a> 
-  -  `2018` `flutter` `dart` `news-api` 
-  -  ☆`598` 
 - [newsline](https://github.com/ayush221b/newsline)
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/3122442c-d888-4062-9d51-5be9f074fa75'>`Screenshot 1`</a> 
   -  `2020` `flutter` `dart` 
