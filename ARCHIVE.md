@@ -425,6 +425,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [news](https://github.com/grp/newsyc)
 - [News](https://github.com/ivan-magda/News)
 - [News](https://github.com/YusuFKaan48/News)
+- [News Buzz](https://github.com/theankurkedia/NewsBuzz)
 - [News/YC](https://github.com/bennyguitar/News-YC---iPhone)
 - [NewsAPISwift](https://github.com/lucaslimapoa/NewsAPISwift)
 - [newswatch](https://github.com/bradoyler/newswatch-react-native)
