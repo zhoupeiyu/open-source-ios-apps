@@ -325,6 +325,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Ireland - COVID Tracker](https://github.com/HSEIreland/covid-tracker-app)
 - [iStockcheck](https://github.com/AndrewBennet/iStockcheck)
 - [Italy - Immuni](https://github.com/immuni-app/immuni-app-ios)
+- [iTunes Catalog Search](https://github.com/alexissan/ReactNativeWorkshop)
 - [Japan - COCOA](https://github.com/cocoa-mhlw/cocoa)
 - [Jim](https://github.com/kylejm/Jim)
 - [Jupp](https://github.com/dasdom/Jupp)
