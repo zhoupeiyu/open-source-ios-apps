@@ -739,6 +739,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [WatchSnake](https://github.com/davidcairns/-WatchSnake)
 - [WatchStocks](https://github.com/G2Jose/WatchStocks)
 - [Weather by JakeLin](https://github.com/JakeLin/ReactNativeWeather)
+- [Weather by jsphkhan](https://github.com/jsphkhan/ReactNativeExamples)
 - [WeatherMap](https://github.com/TakefiveInteractive/WeatherMap)
 - [Wei Wallet](https://github.com/popshootjapan/WeiWallet-iOS)
 - [Whatsapp clone](https://github.com/opensourceios/whatsapp)
