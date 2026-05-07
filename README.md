@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1652-green.svg) ![](https://img.shields.io/badge/Updated-May%20%206,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1652-green.svg) ![](https://img.shields.io/badge/Updated-May%20%207,%202026-lightgrey.svg)
 
 Jump to
 
@@ -3957,11 +3957,6 @@ https://facebook.github.io/react-native/ — [back to top](#readme)
   -  <a href='https://github.com/IFours/react-native-twitch/raw/rn0.15/assets/twitch.gif'>`Screenshot 1`</a> 
   -  `2017` `react-native` 
   -  ☆`90` 
-- [Weather by jsphkhan](https://github.com/jsphkhan/ReactNativeExamples)
-  - <a href=https://github.com/jsphkhan/ReactNativeExamples/tree/master/ios/WeatherApp>`https://github.com/jsphkhan/ReactNativeExamples/tree/master/ios/WeatherApp`</a>
-  -  <a href='https://jsphkhan.github.io/ReactNativeWeatherApp/assets/screenshots/screen1.png'>`Screenshot 1`</a>  <a href='https://jsphkhan.github.io/ReactNativeWeatherApp/assets/screenshots/screen2.png'>`Screenshot 2`</a>  <a href='https://jsphkhan.github.io/ReactNativeWeatherApp/assets/screenshots/screen3.png'>`Screenshot 3`</a> 
-  -  `2018` `react-native` 
-  -  ☆`92` 
 - [Wordnote](https://github.com/zehfernandes/wordnote): The fast way to check a word definition
   - [` App Store`](https://apps.apple.com/app/wordnote-dictionary/id1596537633) <a href='https://www.wordnote.app/assets/polish.png'>`Screenshot 1`</a> 
   -  `2024` `expo` `react-native` 
