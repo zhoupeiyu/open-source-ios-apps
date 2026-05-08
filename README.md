@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1652-green.svg) ![](https://img.shields.io/badge/Updated-May%20%207,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1652-green.svg) ![](https://img.shields.io/badge/Updated-May%20%208,%202026-lightgrey.svg)
 
 Jump to
 
@@ -4015,9 +4015,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/rxmarbles/id1087272442) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/37/4c/aa/374caa6c-ef0a-b8b6-20a9-c8ca8920fe32/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/1f/7c/40/1f7c4058-fae6-6de9-cdaf-d27f1cbd5afd/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/8d/83/63/8d8363ff-0637-8a77-5dc3-19cab426a164/pr_source.png/460x0w.jpg'>`Screenshot 3`</a> 
   -  `2020` `swift` 
   -  ☆`475` 
-- [RxSwift MVVM example using GitHub search](https://github.com/NavdeepSinghh/RxSwift_MVVM_Finished)
-  -  `2018` `swift` `rxswift` 
-  -  ☆`26` 
 - [RxTodo](https://github.com/devxoul/RxTodo)
   -  <a href='https://cloud.githubusercontent.com/assets/931655/16531082/eae3ead2-4005-11e6-8537-a6856d704d74.png'>`Screenshot 1`</a> 
   -  `2022` `swift` `swift3` `rxswift` `mvvm` 
