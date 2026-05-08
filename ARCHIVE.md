@@ -558,6 +558,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Runner-Stats](https://github.com/hukun01/Runner-Stats)
 - [RWDevCon](https://github.com/kodecocodes/RWDevCon-App)
 - [RxCurrency](https://github.com/inkyfox/RxCurrency_iOS)
+- [RxSwift MVVM example using GitHub search](https://github.com/NavdeepSinghh/RxSwift_MVVM_Finished)
 - [S.C.P-Asylum-Fail](https://github.com/cpo007/S.C.P-Asylum-Fail)
 - [S.I.T. (雕刻时光)](https://github.com/flexih/Cafe)
 - [SafariAutoLoginTest](https://github.com/mackuba/SafariAutoLoginTest)
