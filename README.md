@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1652-green.svg) ![](https://img.shields.io/badge/Updated-May%20%208,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1652-green.svg) ![](https://img.shields.io/badge/Updated-May%20%209,%202026-lightgrey.svg)
 
 Jump to
 
@@ -4027,10 +4027,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  <a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/01_search_repository_screen.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/02_repository_details_screen.png?raw=true'>`Screenshot 2`</a>  <a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/03_settings_screen.png?raw=true'>`Screenshot 3`</a> 
   -  `2026` `swift` `rxswift` `mvvm` `moya` `fastlane` 
   -  ☆`3116` 
-- [Tweetometer](https://github.com/BalestraPatrick/Tweetometer): See who is tweeting in your timeline
-  -  <a href='https://github.com/BalestraPatrick/Tweetometer/raw/master/header.png'>`Screenshot 1`</a> 
-  -  `2018` `swift` 
-  -  ☆`89` 
 - [WWDCast](https://github.com/sgl0v/WWDCast): The unofficial WWDC application to watch WWDC videos and sessions on your ChromeCast
   -  <a href='https://raw.githubusercontent.com/sgl0v/WWDCast/master/.github/screen1.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/sgl0v/WWDCast/master/.github/screen2.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/sgl0v/WWDCast/master/.github/screen3.png'>`Screenshot 3`</a> 
   -  `2019` `swift` `rxswift` `mvvm` 
