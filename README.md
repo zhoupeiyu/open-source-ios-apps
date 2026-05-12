@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1652-green.svg) ![](https://img.shields.io/badge/Updated-May%2010,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1652-green.svg) ![](https://img.shields.io/badge/Updated-May%2012,%202026-lightgrey.svg)
 
 Jump to
 
@@ -3953,10 +3953,6 @@ https://facebook.github.io/react-native/ — [back to top](#readme)
   -  <a href='https://github.com/uiheros/react-native-redux-todo-list/raw/master/todolist.gif'>`Screenshot 1`</a> 
   -  `2020` `react-native` `redux` 
   -  ☆`43` 
-- [Twitch](https://github.com/IFours/react-native-twitch)
-  -  <a href='https://github.com/IFours/react-native-twitch/raw/rn0.15/assets/twitch.gif'>`Screenshot 1`</a> 
-  -  `2017` `react-native` 
-  -  ☆`90` 
 - [Wordnote](https://github.com/zehfernandes/wordnote): The fast way to check a word definition
   - [` App Store`](https://apps.apple.com/app/wordnote-dictionary/id1596537633) <a href='https://www.wordnote.app/assets/polish.png'>`Screenshot 1`</a> 
   -  `2024` `expo` `react-native` 
