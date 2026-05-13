@@ -521,6 +521,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [QRGen](https://github.com/lojals/QRGen)
 - [Question answering and text generation](https://github.com/huggingface/swift-coreml-transformers)
 - [Queue'd Music](https://github.com/rldaulton/queued-music)
+- [Quick Chat](https://github.com/aslanyanhaik/Quick-Chat)
 - [Radio Paradise](https://github.com/ilTofa/rposx)
 - [Radium Web Browser](https://github.com/SlayterDev/RadiumBrowser)
 - [Ragnarok](https://github.com/riley-usagi/SwiftAdvance)
