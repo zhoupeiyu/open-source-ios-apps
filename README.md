@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1652-green.svg) ![](https://img.shields.io/badge/Updated-May%2012,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1652-green.svg) ![](https://img.shields.io/badge/Updated-May%2013,%202026-lightgrey.svg)
 
 Jump to
 
@@ -605,10 +605,6 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/id979659905) <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/1d/c0/ba/1dc0bacb-bd7e-bfb3-4a14-ab9cdfd6336d/pr_source.png/460x0w.png'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/9c/e3/23/9ce32347-1f99-dfa0-2434-c032e6264eda/pr_source.png/460x0w.png'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/11/33/5c/11335cff-69e3-6a55-3248-ebe2e98c4e87/pr_source.png/460x0w.png'>`Screenshot 3`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/bc/08/4b/bc084bb4-d8d1-26aa-606f-03de254a345d/pr_source.png/460x0w.png'>`Screenshot 4`</a> 
   -  `2026` `swift` `iphone` `ipad` `dompurify` `afnetworking` `flanimatedimage` 
   -  ☆`1581` 
-- [Quick Chat](https://github.com/aslanyanhaik/Quick-Chat): Real-time chat
-  -  <a href='https://raw.githubusercontent.com/aslanyanhaik/Quick-Chat/master/screenshot.gif'>`Screenshot 1`</a> 
-  -  `2019` `swift` `swift3` `firebase` 
-  -  ☆`1826` 
 - [Real-time Chat](https://www.kodeco.com/22067733-firebase-tutorial-real-time-chat)
   -  <a href='https://koenig-media.raywenderlich.com/uploads/2016/08/RoadCyclingChatThread.jpg'>`Screenshot 1`</a> 
   - `firebase` 
@@ -3515,10 +3511,6 @@ https://firebase.google.com/ — [back to top](#readme)
   -  <a href='https://user-images.githubusercontent.com/4723115/183111668-70d3f114-bd84-4af7-9633-9e5fc09f1188.png'>`Screenshot 1`</a> 
   -  `2026` `swift` `graphql` 
   -  ☆`4790` 
-- [Quick Chat](https://github.com/aslanyanhaik/Quick-Chat): Real-time chat
-  -  <a href='https://raw.githubusercontent.com/aslanyanhaik/Quick-Chat/master/screenshot.gif'>`Screenshot 1`</a> 
-  -  `2019` `swift` `swift3` `firebase` 
-  -  ☆`1826` 
 - [Quickstart Samples](https://github.com/firebase/quickstart-ios)
   -  `2026` `objc` 
   -  ☆`3012` 
