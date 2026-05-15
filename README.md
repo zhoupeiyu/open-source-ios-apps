@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1653-green.svg) ![](https://img.shields.io/badge/Updated-May%2014,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1653-green.svg) ![](https://img.shields.io/badge/Updated-May%2015,%202026-lightgrey.svg)
 
 Jump to
 
@@ -3184,10 +3184,10 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://github.com/AlexeyVoronov96/NewsApp-With-SwiftUI-And-Combine/raw/master/NewsApp%20With%20SwiftUI%20Framework/ScreenShots/OverviewTab.png'>`Screenshot 1`</a> 
   -  `2022` `swift` `swiftui` `combine` 
   -  ☆`476` 
-- [OSS Weather](https://github.com/Akylas/oss-weather)
+- [OSS Weather](https://github.com/ossappscollective/oss-weather)
   - [` App Store`](https://apps.apple.com/app/oss-weather/id1499117252) <a href='https://github.com/user-attachments/assets/396957e5-9c53-4049-abc3-eb538e07837b'>`Screenshot 1`</a> 
   -  `2026` `nativescript` 
-  -  ☆`403` 
+  -  ☆`410` 
 - [Pixel Weather](https://github.com/YusuFKaan48/PixelWeather): Provides real-time weather and location information, complemented by AI-generated images that adapt to the current weather conditions
   -  <a href='https://github.com/YusuFKaan48/PixelWeather/assets/111217286/b2d03a5a-ee9b-4ee6-8275-f3e7c26b7601'>`Screenshot 1`</a> 
   -  `2023` `swift` 
