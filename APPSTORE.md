@@ -1720,10 +1720,10 @@ https://joinmastodon.org — [back to top](#readme)
 [back to top](#readme) 
  
 
-- [OSS Weather](https://github.com/Akylas/oss-weather)
+- [OSS Weather](https://github.com/ossappscollective/oss-weather)
   - [` App Store`](https://apps.apple.com/app/oss-weather/id1499117252) <a href='https://github.com/user-attachments/assets/396957e5-9c53-4049-abc3-eb538e07837b'>`Screenshot 1`</a> 
   -  `2026` `nativescript` 
-  -  ☆`403` 
+  -  ☆`410` 
 - [RainVu](https://github.com/astraen-dev/RainVu): Log rainfall from custom gauges and visualize historical data with charts
   - [` App Store`](https://apps.apple.com/app/rainvu/id6754812264) <a href='https://github.com/astraen-dev/RainVu/blob/8e4686107f14be790e6728c71198c14e514d54a8/docs/home_screen.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/astraen-dev/RainVu/blob/8e4686107f14be790e6728c71198c14e514d54a8/docs/insights_screen.png?raw=true'>`Screenshot 2`</a> 
   -  `2026` `flutter` `dart` 
